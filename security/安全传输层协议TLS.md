@@ -4,7 +4,7 @@
 
 #### 1. TLS 是什么
 
-TSL(Transport Layer Security), 安全传输层协议，是一种安全协议，目的是为互联网通信提供安全保密及数据完整性保障。它的前身是安全套接层（Secure Sockets Layer，缩写作SSL）。
+TLS(Transport Layer Security), 安全传输层协议，是一种安全协议，目的是为互联网通信提供安全保密及数据完整性保障。它的前身是安全套接层（Secure Sockets Layer，缩写作SSL）。
 
 TLS 最常见的一个使用场景是，对web应用程序和服务器之间的通信进行加密，比如web浏览器加载网页。TLS还可用于加密其它通信，如电子邮件、消息传递和IP语音(VOIP)。
 
